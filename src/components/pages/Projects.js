@@ -1,6 +1,7 @@
-function Projects() {
-  return(
-  <h1>Projects</h1>)
-}
+import React from "react";
+
+export const Projects = () => {
+  return <div>Projects</div>;
+};
 
 export default Projects;
